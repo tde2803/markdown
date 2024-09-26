@@ -1,0 +1,11 @@
+# IDE files
+.idea/
+
+# Dependency
+node_modules/
+
+# Build files
+dist/
+
+# Test coverage
+coverage/

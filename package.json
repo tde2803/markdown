@@ -1,0 +1,32 @@
+{
+    "name": "markdown",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "webpack-dev-server --mode development"
+    },
+    "author": "Dmitry Tychinin",
+    "license": "ISC",
+    "description": "React TypeScript based markdown editor",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tde2803/markdown.git"
+    },
+    "devDependencies": {
+        "@types/react": "18.3.10",
+        "@types/react-dom": "18.3.0",
+        "css-loader": "7.1.2",
+        "html-webpack-plugin": "^5.6.0",
+        "prettier": "3.3.3",
+        "style-loader": "4.0.0",
+        "ts-loader": "9.5.1",
+        "typescript": "5.6.2",
+        "webpack": "5.95.0",
+        "webpack-cli": "5.1.4",
+        "webpack-dev-server": "5.1.0"
+    },
+    "dependencies": {
+        "react": "18.3.1",
+        "react-dom": "18.3.1",
+        "react-router-dom": "^6.26.2"
+    }
+}
